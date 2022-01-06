@@ -5,27 +5,285 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637770325003996919
-    m_Hash: 1970097928
+      ticks: 637770494971611393
+    m_Hash: 266528878
   m_LockFileStatus:
     m_FilePath: C:/Users/n0905/github/0106NewProject/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637770325004126943
-    m_Hash: 4271654105
+      ticks: 637770495142665323
+    m_Hash: 255018967
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
   m_Packages:
     m_ResolvedPackages:
-    - packageId: com.unity.collab-proxy@1.5.7
+    - packageId: com.unity.2d.sprite@1.0.0
       testable: 0
       isDirectDependency: 1
-      version: 1.5.7
+      version: 1.0.0
+      source: 2
+      resolvedPath: C:\Users\n0905\github\0106NewProject\Library\PackageCache\com.unity.2d.sprite@1.0.0
+      assetPath: Packages/com.unity.2d.sprite
+      name: com.unity.2d.sprite
+      displayName: 2D Sprite
+      author:
+        name: 
+        email: 
+        url: 
+      category: 2D
+      type: 
+      description: Use Unity Sprite Editor Window to create and edit Sprite asset
+        properties like pivot, borders and Physics shape
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.0.0
+        compatible:
+        - 1.0.0
+        verified: 1.0.0
+      dependencies: []
+      resolvedDependencies: []
+      keywords:
+      - 2d
+      - sprite
+      - sprite editor window
+      registry:
+        id: 
+        name: 
+        url: 
+        scopes: []
+        isDefault: 0
+        capabilities: 0
+      hasRegistry: 0
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 0
+      repository:
+        type: 
+        url: 
+        revision: 
+        path: 
+    - packageId: com.unity.2d.tilemap@1.0.0
+      testable: 0
+      isDirectDependency: 1
+      version: 1.0.0
+      source: 2
+      resolvedPath: C:\Users\n0905\github\0106NewProject\Library\PackageCache\com.unity.2d.tilemap@1.0.0
+      assetPath: Packages/com.unity.2d.tilemap
+      name: com.unity.2d.tilemap
+      displayName: 2D Tilemap Editor
+      author:
+        name: 
+        email: 
+        url: 
+      category: 2D
+      type: 
+      description: 2D Tilemap Editor is a package that contains editor functionalities
+        for editing Tilemaps.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.0.0
+        compatible:
+        - 1.0.0
+        verified: 1.0.0
+      dependencies: []
+      resolvedDependencies: []
+      keywords:
+      - 2d
+      - Tilemap
+      registry:
+        id: 
+        name: 
+        url: 
+        scopes: []
+        isDefault: 0
+        capabilities: 0
+      hasRegistry: 0
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 0
+      repository:
+        type: 
+        url: 
+        revision: 
+        path: 
+    - packageId: com.unity.cinemachine@2.6.5
+      testable: 0
+      isDirectDependency: 1
+      version: 2.6.5
       source: 1
-      resolvedPath: C:\Users\n0905\github\0106NewProject\Library\PackageCache\com.unity.collab-proxy@1.5.7
+      resolvedPath: C:\Users\n0905\github\0106NewProject\Library\PackageCache\com.unity.cinemachine@2.6.5
+      assetPath: Packages/com.unity.cinemachine
+      name: com.unity.cinemachine
+      displayName: Cinemachine
+      author:
+        name: 
+        email: 
+        url: 
+      category: cinematography
+      type: 
+      description: "Smart camera tools for passionate creators. \n\nIMPORTANT NOTE:
+        If you are upgrading from the Asset Store version of Cinemachine, delete
+        the Cinemachine asset from your project BEFORE installing this version from
+        the Package Manager."
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 2.1.11-beta.1
+        - 2.1.12
+        - 2.1.13
+        - 2.2.0
+        - 2.2.7
+        - 2.2.8
+        - 2.2.9
+        - 2.2.10-preview.3
+        - 2.2.10-preview.4
+        - 2.3.1
+        - 2.3.3
+        - 2.3.4
+        - 2.3.5-preview.3
+        - 2.4.0-preview.3
+        - 2.4.0-preview.4
+        - 2.4.0-preview.6
+        - 2.4.0-preview.7
+        - 2.4.0-preview.8
+        - 2.4.0-preview.9
+        - 2.4.0-preview.10
+        - 2.4.0
+        - 2.5.0
+        - 2.6.0-preview.2
+        - 2.6.0-preview.3
+        - 2.6.0-preview.5
+        - 2.6.0-preview.8
+        - 2.6.0
+        - 2.6.1-preview.6
+        - 2.6.1
+        - 2.6.2-preview.1
+        - 2.6.2
+        - 2.6.3-preview.2
+        - 2.6.3
+        - 2.6.4
+        - 2.6.5
+        - 2.6.9
+        - 2.6.10
+        - 2.6.11
+        - 2.7.1
+        - 2.7.2
+        - 2.7.3
+        - 2.7.4
+        - 2.7.5
+        - 2.7.8
+        - 2.7.9
+        - 2.8.0-exp.1
+        - 2.8.0-exp.2
+        - 2.8.0-pre.1
+        - 2.8.0
+        - 2.8.1
+        - 2.8.2
+        - 2.8.3
+        - 2.8.4
+        - 2.9.0-pre.1
+        compatible:
+        - 2.5.0
+        - 2.6.0-preview.2
+        - 2.6.0-preview.3
+        - 2.6.0-preview.5
+        - 2.6.0-preview.8
+        - 2.6.0
+        - 2.6.1-preview.6
+        - 2.6.1
+        - 2.6.2-preview.1
+        - 2.6.2
+        - 2.6.3-preview.2
+        - 2.6.3
+        - 2.6.4
+        - 2.6.5
+        - 2.6.9
+        - 2.6.10
+        - 2.6.11
+        - 2.7.1
+        - 2.7.2
+        - 2.7.3
+        - 2.7.4
+        - 2.7.5
+        - 2.7.8
+        - 2.7.9
+        - 2.8.0-exp.1
+        - 2.8.0-exp.2
+        - 2.8.0-pre.1
+        - 2.8.0
+        - 2.8.1
+        - 2.8.2
+        - 2.8.3
+        - 2.8.4
+        - 2.9.0-pre.1
+        verified: 2.6.11
+      dependencies: []
+      resolvedDependencies: []
+      keywords:
+      - camera
+      - follow
+      - rig
+      - fps
+      - cinematography
+      - aim
+      - orbit
+      - cutscene
+      - cinematic
+      - collision
+      - freelook
+      - cinemachine
+      - compose
+      - composition
+      - dolly
+      - track
+      - clearshot
+      - noise
+      - framing
+      - handheld
+      - lens
+      - impulse
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637578244570000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: git+https://github.com/Unity-Technologies/com.unity.cinemachine.git
+        revision: c12b97ec35ab5091c685e729b76980a69a6d39a1
+        path: 
+    - packageId: com.unity.collab-proxy@1.9.0
+      testable: 0
+      isDirectDependency: 1
+      version: 1.9.0
+      source: 1
+      resolvedPath: C:\Users\n0905\github\0106NewProject\Library\PackageCache\com.unity.collab-proxy@1.9.0
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Version Control
@@ -106,23 +364,22 @@ m_PackageAssets:
         - 2.1.0-preview.5
         - 2.1.0-preview.6
         verified: 1.5.7
-      dependencies:
-      - name: com.unity.nuget.newtonsoft-json
-        version: 2.0.0
-      resolvedDependencies:
-      - name: com.unity.nuget.newtonsoft-json
-        version: 2.0.0
+      dependencies: []
+      resolvedDependencies: []
       keywords:
-      - vsc
-      - version
-      - control
-      - collab
-      - collaboration
-      - collaborate
-      - teams
-      - team
-      - cloud
       - backup
+      - cloud
+      - collab
+      - collaborate
+      - collaboration
+      - control
+      - plastic
+      - plasticscm
+      - source
+      - team
+      - teams
+      - version
+      - vcs
       registry:
         id: main
         name: 
@@ -135,13 +392,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637551413290000000
+      datePublishedTicks: 637637594290000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
-        revision: f079d307344f568804d3ea6d781013135e614e45
+        revision: 51447944a1e7d94937e6b7f9e887d58f5097ed13
         path: 
     - packageId: com.unity.ide.rider@2.0.7
       testable: 0
@@ -224,7 +481,7 @@ m_PackageAssets:
         version: 1.1.1
       resolvedDependencies:
       - name: com.unity.test-framework
-        version: 1.1.24
+        version: 1.1.29
       - name: com.unity.ext.nunit
         version: 1.0.6
       - name: com.unity.modules.imgui
@@ -252,12 +509,12 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.rider.git
         revision: abb44f053e9a41d2e00e149e32a19bcec76e98b4
         path: 
-    - packageId: com.unity.ide.visualstudio@2.0.8
+    - packageId: com.unity.ide.visualstudio@2.0.11
       testable: 0
       isDirectDependency: 1
-      version: 2.0.8
+      version: 2.0.11
       source: 1
-      resolvedPath: C:\Users\n0905\github\0106NewProject\Library\PackageCache\com.unity.ide.visualstudio@2.0.8
+      resolvedPath: C:\Users\n0905\github\0106NewProject\Library\PackageCache\com.unity.ide.visualstudio@2.0.11
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -313,7 +570,7 @@ m_PackageAssets:
         version: 1.1.9
       resolvedDependencies:
       - name: com.unity.test-framework
-        version: 1.1.24
+        version: 1.1.29
       - name: com.unity.ext.nunit
         version: 1.0.6
       - name: com.unity.modules.imgui
@@ -333,20 +590,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637562620210000000
+      datePublishedTicks: 637613656180000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.visualstudio.git
-        revision: 5cdf5d932e6ecbbd83bbe6a40eec2a94b4979501
+        revision: 680e06d94ffca728223ae2cb14bb919cd354e2c1
         path: 
-    - packageId: com.unity.ide.vscode@1.2.3
+    - packageId: com.unity.ide.vscode@1.2.4
       testable: 0
       isDirectDependency: 1
-      version: 1.2.3
+      version: 1.2.4
       source: 1
-      resolvedPath: C:\Users\n0905\github\0106NewProject\Library\PackageCache\com.unity.ide.vscode@1.2.3
+      resolvedPath: C:\Users\n0905\github\0106NewProject\Library\PackageCache\com.unity.ide.vscode@1.2.4
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -404,13 +661,125 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637394922300000000
+      datePublishedTicks: 637660806170000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
-        url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.vscode.git
-        revision: b5ec9b38109e52b1b26597d521e4df75e042ebb9
+        url: git+https://github.com/Unity-Technologies/com.unity.ide.vscode.git
+        revision: 1f4f605d5c988cb610c372b5c5216c46cc8f5d30
+        path: 
+    - packageId: com.unity.recorder@2.5.5
+      testable: 0
+      isDirectDependency: 1
+      version: 2.5.5
+      source: 1
+      resolvedPath: C:\Users\n0905\github\0106NewProject\Library\PackageCache\com.unity.recorder@2.5.5
+      assetPath: Packages/com.unity.recorder
+      name: com.unity.recorder
+      displayName: Unity Recorder
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: 'The Unity Recorder allows you to capture and save data from the
+        Unity Editor during Play Mode: animations, videos, images, audio, and more.'
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 2.0.0-preview.6
+        - 2.0.1-preview.1
+        - 2.0.2-preview.3
+        - 2.0.3-preview.1
+        - 2.1.0-preview.1
+        - 2.2.0-preview.4
+        - 2.3.0-preview.3
+        - 2.4.0-preview.1
+        - 2.5.0-pre.1
+        - 2.5.2
+        - 2.5.4
+        - 2.5.5
+        - 2.5.7
+        - 2.6.0-exp.3
+        - 2.6.0-exp.4
+        - 3.0.0-pre.1
+        - 3.0.0-pre.2
+        - 3.0.0
+        - 3.0.1
+        - 3.0.2
+        - 3.0.3
+        - 4.0.0-pre.1
+        - 4.0.0-pre.2
+        compatible:
+        - 2.0.0-preview.6
+        - 2.0.1-preview.1
+        - 2.0.2-preview.3
+        - 2.0.3-preview.1
+        - 2.1.0-preview.1
+        - 2.2.0-preview.4
+        - 2.3.0-preview.3
+        - 2.4.0-preview.1
+        - 2.5.0-pre.1
+        - 2.5.2
+        - 2.5.4
+        - 2.5.5
+        - 2.5.7
+        - 2.6.0-exp.3
+        - 2.6.0-exp.4
+        - 3.0.0-pre.1
+        - 3.0.0-pre.2
+        - 3.0.0
+        - 3.0.1
+        - 3.0.2
+        - 3.0.3
+        - 4.0.0-pre.1
+        - 4.0.0-pre.2
+        verified: 2.5.7
+      dependencies:
+      - name: com.unity.timeline
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.timeline
+        version: 1.4.8
+      - name: com.unity.modules.director
+        version: 1.0.0
+      - name: com.unity.modules.audio
+        version: 1.0.0
+      - name: com.unity.modules.animation
+        version: 1.0.0
+      - name: com.unity.modules.particlesystem
+        version: 1.0.0
+      keywords:
+      - unity
+      - recorder
+      - recording
+      - capture
+      - video
+      - animation
+      - clip
+      - images
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637516111550000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.recorder.git
+        revision: f3dc97fa977473ea7eb4f8445879c2eb9ae8e553
         path: 
     - packageId: com.unity.render-pipelines.universal@10.5.0
       testable: 0
@@ -530,12 +899,12 @@ m_PackageAssets:
         url: git+https://github.com/Unity-Technologies/Graphics.git
         revision: 7ff8fd444c179fd9bb380d61f4865be6935b47dd
         path: 
-    - packageId: com.unity.test-framework@1.1.24
+    - packageId: com.unity.test-framework@1.1.29
       testable: 0
       isDirectDependency: 1
-      version: 1.1.24
+      version: 1.1.29
       source: 1
-      resolvedPath: C:\Users\n0905\github\0106NewProject\Library\PackageCache\com.unity.test-framework@1.1.24
+      resolvedPath: C:\Users\n0905\github\0106NewProject\Library\PackageCache\com.unity.test-framework@1.1.29
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -618,13 +987,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637505702940000000
+      datePublishedTicks: 637647922650000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: git+https://github.com/Unity-Technologies/com.unity.test-framework.git
-        revision: e6fe8892689398c0d9aba4587e0ba69edc3d82b8
+        revision: dac53542acdab7a12e9ebf111ac588d0e53cf483
         path: 
     - packageId: com.unity.textmeshpro@3.0.6
       testable: 0
@@ -1009,6 +1378,77 @@ m_PackageAssets:
         type: 
         url: 
         revision: 
+        path: 
+    - packageId: com.unity.xr.legacyinputhelpers@2.1.8
+      testable: 0
+      isDirectDependency: 1
+      version: 2.1.8
+      source: 1
+      resolvedPath: C:\Users\n0905\github\0106NewProject\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.8
+      assetPath: Packages/com.unity.xr.legacyinputhelpers
+      name: com.unity.xr.legacyinputhelpers
+      displayName: XR Legacy Input Helpers
+      author:
+        name: 
+        email: 
+        url: 
+      category: XR
+      type: 
+      description: This package includes the tracked pose driver for the legacy input
+        system, the XR Bindings Seeding Tool and 3Dof Arm Model support for the Tracked
+        Pose Driver. The Tracked Pose Driver is a behavior that enables GameObjects
+        to track input devices, the XR Bindings Seeding Tool adds a menu item under
+        the 'Assets' menu which populates the Input Asset with Unity's crossplatform
+        Input Bindings
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 2.1.7
+        compatible:
+        - 2.1.7
+        verified: 2.1.7
+      dependencies:
+      - name: com.unity.modules.vr
+        version: 1.0.0
+      - name: com.unity.modules.xr
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.modules.vr
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+      - name: com.unity.modules.physics
+        version: 1.0.0
+      - name: com.unity.modules.xr
+        version: 1.0.0
+      - name: com.unity.modules.subsystems
+        version: 1.0.0
+      keywords:
+      - TPD
+      - Tracked Pose Driver
+      - XR
+      - Input
+      - Helpers
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.xr.legacyinputhelpers.git
+        revision: ed3b32c709a0e51cf73fda4b200c59b48955c4be
         path: 
     - packageId: com.unity.modules.ai@1.0.0
       testable: 0
@@ -3206,82 +3646,6 @@ m_PackageAssets:
         type: git
         url: git+https://github.com/Unity-Technologies/Graphics.git
         revision: 7ff8fd444c179fd9bb380d61f4865be6935b47dd
-        path: 
-    - packageId: com.unity.nuget.newtonsoft-json@2.0.0
-      testable: 0
-      isDirectDependency: 0
-      version: 2.0.0
-      source: 1
-      resolvedPath: C:\Users\n0905\github\0106NewProject\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0
-      assetPath: Packages/com.unity.nuget.newtonsoft-json
-      name: com.unity.nuget.newtonsoft-json
-      displayName: Newtonsoft Json
-      author:
-        name: 
-        email: 
-        url: 
-      category: 
-      type: 
-      description: 'Newtonsoft Json for use in Unity projects and Unity packages.
-        Currently synced to version 12.0.2.
-
-
-        This package is used for advanced
-        json serialization and deserialization. Most Unity users will be better suited
-        using the existing json tools built into Unity.
-
-        To avoid assembly
-        clashes, please use this package if you intend to use Newtonsoft Json.'
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 1.0.0-preview.2
-        - 1.0.0-preview.3
-        - 1.0.0-preview.4
-        - 1.0.1-preview.1
-        - 1.1.2
-        - 2.0.0-preview
-        - 2.0.0-preview.1
-        - 2.0.0-preview.2
-        - 2.0.0
-        - 2.0.1-preview.1
-        - 2.0.2
-        compatible:
-        - 1.0.0-preview.2
-        - 1.0.0-preview.3
-        - 1.0.0-preview.4
-        - 1.0.1-preview.1
-        - 1.1.2
-        - 2.0.0-preview
-        - 2.0.0-preview.1
-        - 2.0.0-preview.2
-        - 2.0.0
-        - 2.0.1-preview.1
-        - 2.0.2
-        verified: 2.0.2
-      dependencies: []
-      resolvedDependencies: []
-      keywords: []
-      registry:
-        id: main
-        name: 
-        url: https://packages.unity.com
-        scopes: []
-        isDefault: 1
-        capabilities: 7
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 637237898320000000
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: git
-        url: https://github.cds.internal.unity3d.com/unity/com.unity.nuget.newtonsoft-json.git
-        revision: d2fd6ed876261bbd82f59199ad711e7667bf633a
         path: 
     - packageId: com.unity.searcher@4.3.2
       testable: 0
