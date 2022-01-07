@@ -465,6 +465,10 @@ PrefabInstance:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: 3ed7d37cbe08a714d8b04ce0cf4063e6, type: 2}
+    - target: {fileID: 8703872773192268047, guid: 64c9d96775079344fac674889078804c, type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8703872773199547215, guid: 64c9d96775079344fac674889078804c, type: 3}
       propertyPath: m_Name
       value: Unity_Chan_generic
