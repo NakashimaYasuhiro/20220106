@@ -71,10 +71,8 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
@@ -172,97 +170,97 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3378}
     - Class: 114
-      Script: {instanceID: 3442}
+      Script: {instanceID: 3444}
     - Class: 114
-      Script: {instanceID: 3500}
+      Script: {instanceID: 3502}
     - Class: 114
-      Script: {instanceID: 3524}
+      Script: {instanceID: 3526}
     - Class: 114
-      Script: {instanceID: 3582}
+      Script: {instanceID: 3584}
     - Class: 114
-      Script: {instanceID: 3662}
+      Script: {instanceID: 3664}
     - Class: 114
-      Script: {instanceID: 3704}
+      Script: {instanceID: 3706}
     - Class: 114
-      Script: {instanceID: 3814}
+      Script: {instanceID: 3816}
     - Class: 114
-      Script: {instanceID: 4110}
+      Script: {instanceID: 4112}
     - Class: 114
-      Script: {instanceID: 4124}
+      Script: {instanceID: 4126}
     - Class: 114
-      Script: {instanceID: 4216}
+      Script: {instanceID: 4218}
     - Class: 114
-      Script: {instanceID: 4288}
+      Script: {instanceID: 4290}
     - Class: 114
-      Script: {instanceID: 4368}
+      Script: {instanceID: 4370}
     - Class: 114
-      Script: {instanceID: 4446}
+      Script: {instanceID: 4448}
     - Class: 114
-      Script: {instanceID: 4520}
+      Script: {instanceID: 4522}
     - Class: 114
-      Script: {instanceID: 4724}
+      Script: {instanceID: 4726}
     - Class: 114
-      Script: {instanceID: 4754}
+      Script: {instanceID: 4756}
     - Class: 114
-      Script: {instanceID: 4758}
+      Script: {instanceID: 4760}
     - Class: 114
-      Script: {instanceID: 5106}
+      Script: {instanceID: 5108}
     - Class: 114
-      Script: {instanceID: 5208}
+      Script: {instanceID: 5210}
     - Class: 114
-      Script: {instanceID: 5272}
+      Script: {instanceID: 5274}
     - Class: 114
-      Script: {instanceID: 5288}
+      Script: {instanceID: 5290}
     - Class: 114
-      Script: {instanceID: 5344}
-    - Class: 114
-      Script: {instanceID: 5518}
+      Script: {instanceID: 5346}
     - Class: 114
       Script: {instanceID: 5520}
     - Class: 114
-      Script: {instanceID: 5542}
+      Script: {instanceID: 5522}
     - Class: 114
-      Script: {instanceID: 5792}
+      Script: {instanceID: 5544}
     - Class: 114
-      Script: {instanceID: 5906}
+      Script: {instanceID: 5794}
     - Class: 114
-      Script: {instanceID: 6044}
+      Script: {instanceID: 5908}
     - Class: 114
-      Script: {instanceID: 6114}
+      Script: {instanceID: 6046}
     - Class: 114
-      Script: {instanceID: 6124}
+      Script: {instanceID: 6116}
     - Class: 114
-      Script: {instanceID: 6212}
+      Script: {instanceID: 6126}
     - Class: 114
-      Script: {instanceID: 6250}
+      Script: {instanceID: 6214}
     - Class: 114
-      Script: {instanceID: 6300}
+      Script: {instanceID: 6252}
     - Class: 114
-      Script: {instanceID: 6380}
+      Script: {instanceID: 6302}
     - Class: 114
-      Script: {instanceID: 6492}
+      Script: {instanceID: 6382}
     - Class: 114
-      Script: {instanceID: 6620}
+      Script: {instanceID: 6494}
     - Class: 114
-      Script: {instanceID: 6734}
+      Script: {instanceID: 6622}
     - Class: 114
-      Script: {instanceID: 6778}
+      Script: {instanceID: 6736}
     - Class: 114
-      Script: {instanceID: 6966}
+      Script: {instanceID: 6780}
     - Class: 114
-      Script: {instanceID: 7052}
+      Script: {instanceID: 6968}
     - Class: 114
-      Script: {instanceID: 7350}
+      Script: {instanceID: 7054}
     - Class: 114
-      Script: {instanceID: 7376}
+      Script: {instanceID: 7352}
     - Class: 114
-      Script: {instanceID: 7664}
+      Script: {instanceID: 7378}
     - Class: 114
-      Script: {instanceID: 7810}
+      Script: {instanceID: 7666}
     - Class: 114
-      Script: {instanceID: 7898}
+      Script: {instanceID: 7812}
     - Class: 114
-      Script: {instanceID: 7904}
+      Script: {instanceID: 7900}
+    - Class: 114
+      Script: {instanceID: 7906}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -798,6 +796,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: UnityChan
     className: ThirdPersonCamera
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TitleStart
   - hash:
       serializedVersion: 2
       Hash: ce66de8a2daf1f400e6c7f3516d2753e
@@ -2154,12 +2158,6 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
     className: TouchInputModule
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: TitleStart
   platform: 13
   scenePathNames:
   - Assets/Scenes/MainSene/MainScene.unity
