@@ -18,28 +18,42 @@ public class Unitychan0117 : MonoBehaviour
         if (Input.GetKey(KeyCode.RightArrow)){
 
             transform.Rotate(0, 5, 0);
+            ani.SetBool("run", true);
         }
 
         if (Input.GetKey(KeyCode.LeftArrow)){
 
             transform.Rotate(0, -5, 0);
+            ani.SetBool("run", true);
         }
 
         if (Input.GetKey(KeyCode.UpArrow))
-        {   ani.SetBool("run", true);
+        {   
             transform.position += transform.forward * 0.01f;
+            ani.SetBool("run", true);
+        }
+        else
+        {
+            ani.SetBool("run", false);
         }
 
         if (Input.GetKey(KeyCode.DownArrow))
         {
+           
+            transform.position += -transform.forward * 0.01f; 
             ani.SetBool("run", true);
-            transform.position += -transform.forward * 0.01f;
+        }
+        else
+        {
+            ani.SetBool("run", false);
         }
 
-        if (Input.GetKey(KeyCode.Space)){
+        if (Input.GetKeyDown(KeyCode.Space)){
             ani.SetTrigger("jump");
         }
 
+
+        
        
     }
 }
